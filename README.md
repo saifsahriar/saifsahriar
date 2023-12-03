@@ -1,5 +1,5 @@
 # About Me:
-# Hey, <br>I am Saif Sahriar,<br>I am currently into Web Development,<br>I am an AI enthusiast and exploring and learning from the many things the CS world can teach!
+# Hey, <br>I am Saif Sahriar,<br>I am currently into Web Development,<br>Exploring and learning from the many things the CS world can teach!
 
 
 ## 🌐 Socials:
