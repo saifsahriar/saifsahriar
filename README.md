@@ -1,5 +1,5 @@
 # Hey,
-### I am Saif Sahriar,<br>I am currently into Web Development,<br>Exploring and learning from the many things the CS world can teach!
+### I am Saif Sahriar,<br>I am currently into Web Development.
 
 
 ## 🌐 Socials:
